@@ -15,5 +15,7 @@ h3 test
 1. Trying out **bold**
 2. Now, here's a _**bold italic**_
 3. And here's a strikethrough
+
 ...~~It's here~~
-..... ...so, is that it?
+
+... ...so, is that it?
