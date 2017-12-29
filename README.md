@@ -25,3 +25,14 @@ h3 test
 [link to the ruler of the Universe](https://google.com)
 
 [link with title, trying to improve](https://peanutinteractive.com "P.I is O.K!")
+
+
+### Code Styling
+```javascript
+var s = "Javascript script highlighting look super cool!";
+alert(s);
+console.log(s);
+function someFunk(){
+   // tab intent commenting is all right
+}
+```
