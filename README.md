@@ -40,4 +40,4 @@ function someFunk(){
 ### Adding Images in MD
 ![alt text][logo]
 
-[logo]: ../hello-world/pi_logo_noStatic.jpg "P.I logo alt text is boring."
+[logo]: https://github.com/pi-jobayashi/hello-world/blob/master/pi_logo_noStatic.jpg "P.I logo alt text is boring."
