@@ -36,3 +36,8 @@ function someFunk(){
    // tab intent commenting is all right
 }
 ```
+
+### Adding Images in MD
+![alt text][logo]
+
+[logo]: ../hello-world/pi_logo_noStatic.jpg "P.I logo alt text is boring."
