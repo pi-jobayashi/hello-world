@@ -8,6 +8,9 @@ And now I'm a _geek_. Not a Greek. Git is all Geek to me!
 
 ### Trying out Markdown
 
+[adam-p's md cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
 h3 test
 -------
 
